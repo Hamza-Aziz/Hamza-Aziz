@@ -11,15 +11,12 @@
 
 <br />
 
-[![Hamza Aziz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/10735209/hamza)
-Here are some ideas to get you started:
+here is my reputation on stackoverflow
 
-- 🔭 I’m currently working on a gitOps pipe
-- 🌱 I’m currently learning .
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Hamza Aziz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/10735209/hamza)
+
+- 🔭 I’m currently a devOps Enginner Intern
+- 🌱 I’m currently working on a project with aws, terraform, git, ansible, jenkins, bash script.
+- 👯 I’m looking to collaborate on some projects realted to devOps culture
+- 💬 get in touch in social media
+
