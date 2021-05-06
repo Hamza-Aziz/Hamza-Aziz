@@ -29,8 +29,10 @@ here is my reputation on stackoverflow
 
 [![Hamza Aziz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/10735209/hamza)
 
-- 🔭 I’m currently a devOps Enginner Intern
-- 🌱 I’m currently working on a project with aws, terraform, git, ansible, jenkins, bash script.
-- 👯 I’m looking to collaborate on some projects realted to devOps culture
-- 💬 get in touch in social media
+- 🔭 I’m currently a devOps Enginner Intern.
+- 🌱 I just completed a project with aws, terraform, git, ansible, jenkins, bash script, datadog :
+     * it's about deploying and monitoring a web application developed with spring boot and with a mysql database on aws by just a click on jenkins.
+- 🌱 so excited to be involved on another project.
+- 👯 I’m looking to collaborate on some projects realted to devOps culture.
+- 💬 get in touch in social media.
 
