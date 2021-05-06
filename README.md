@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Hamza Aziz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/10735209/hamza)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a gitOps pipe
