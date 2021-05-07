@@ -33,6 +33,6 @@ here is my reputation on stackoverflow
 - 🌱 I just completed a project with aws, terraform, git, ansible, jenkins, bash script, datadog :
      * it's about deploying and monitoring a web application developed with spring boot and with a mysql database on aws by just a click on jenkins.
 - 🌱 so excited to be involved on another project.
-- 👯 I’m looking to collaborate on some projects realted to devOps culture.
+- 👯 I’m looking to collaborate on some projects related to DevOps culture.
 - 💬 get in touch in social media.
 
