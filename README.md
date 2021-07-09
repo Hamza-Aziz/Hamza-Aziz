@@ -29,7 +29,7 @@ here is my reputation on stackoverflow
 
 [![Hamza Aziz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/10735209/hamza)
 
-- 🔭 I’m currently a devOps Enginner Intern.
+- 🔭 I’m a DevOps Enginner.
 - i'm currently working on a self service project : Deployment of a sap hybris accelerator in a Dockerized environment with jenkins docker sap recipes.
 - 🌱 I just completed a project with aws, terraform, git, ansible, jenkins, bash script, datadog :
      * it's about deploying and monitoring a web application developed with spring boot and with a mysql database on aws by just a one click on jenkins.
