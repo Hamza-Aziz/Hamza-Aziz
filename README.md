@@ -25,15 +25,27 @@
 
 <br />
 
-here is my reputation on stackoverflow
 
+Currently, a DevOps | SRE Engineer With Hands-on experience on :
+
+Designing, building, deploying, monitoring and maintaining various decoupled secure, high available and fault-tolerant environments for high-performance E-Commerce Application (Hybris SAP projects, microservices architecture)
+[#Terraform, #Kubernetes, #Ansible, #Docker, #AWS, #Azure, # HAProxy, #Jenkins #Datadog]
+
+building secure CI/CD pipeline.
+
+**Certifications :**
+
+ * AWS Certified Solutions Architect – Associate
+ * HashiCorp Certified: Terraform Associate
+ * Datadog Partner Network Technical Specialist
+
+**In progress :**
+
+ * Certified Kubernetes Administrator (CKA)
+
+**Free time :**
+ * Sport and meeting fiends !
+ * Giving back to the community : 
+ 
 [![Hamza Aziz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/10735209/hamza)
-
-- 🔭 I’m a DevOps Enginner.
-- i'm currently working on a self service project : Deployment of a sap hybris accelerator in a Dockerized environment with jenkins docker sap recipes.
-- 🌱 I just completed a project with aws, terraform, git, ansible, jenkins, bash script, datadog :
-     * it's about deploying and monitoring a web application developed with spring boot and with a mysql database on aws by just a one click on jenkins.
-- 🌱 so excited to be involved on another project.
-- 👯 I’m looking to collaborate on some projects related to DevOps culture.
-- 💬 get in touch in social media.
 
