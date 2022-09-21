@@ -49,3 +49,6 @@ building secure CI/CD pipeline.
  
 [![Hamza Aziz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/10735209/hamza)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hamza-Aziz)
+
+
