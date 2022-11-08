@@ -45,7 +45,7 @@ building secure CI/CD pipeline.
 
 **Free time:**
  * Sport and meet friends!
- * Giving back to the community : 
+ * Giving back to the community (contribution to public Terraform modules and Stackoverflow) 
  
 [![Hamza Aziz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10735209)](https://stackoverflow.com/users/10735209/hamza)
 
